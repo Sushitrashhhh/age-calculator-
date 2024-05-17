@@ -1,4 +1,4 @@
-var myAge = 19; //bc meri age
+var myAge = 19; //my age
 var earlyYears = 2; //idk bout this I'm just following it
 earlyYears *= 10.5; //2 is multiplied to 10.5 which stores value in earlyYears
 var laterYears = myAge - 2; //2 is subtracted from myAge and stores values in laterYears
